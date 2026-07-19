@@ -4,7 +4,7 @@ A machine learning web application that predicts diabetes risk
 based on clinical health parameters.
 
 ## 🔗 Live Demo
-[Click here to try the app](YOUR_STREAMLIT_URL_HERE)
+[Click here to try the app](https://rida-diabetes-predictor.streamlit.app)
 
 ## 🧠 Model
 - Algorithm: Random Forest Classifier
